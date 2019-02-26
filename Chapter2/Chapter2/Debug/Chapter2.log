@@ -1,0 +1,8 @@
+﻿  Sales_data.cpp
+  pointer.cpp
+  scope.cpp
+g:\cppprojects\chapter2\chapter2\scope.cpp(6): error C2014: 预处理器命令必须作为第一个非空白空间启动
+g:\cppprojects\chapter2\chapter2\scope.cpp(6): error C2065: “输出”: 未声明的标识符
+g:\cppprojects\chapter2\chapter2\scope.cpp(7): error C2143: 语法错误: 缺少“;”(在“std::cout”的前面)
+  unsigned.cpp
+  正在生成代码...
